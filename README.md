@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MathiPesto
 - 👀 I’m interested in Data Science and AI.
-- 🌱 I’m currently learning AI, text and image analysis.
-- 💞️ I’m looking to collaborate on various projects
+- 🌱 I’m currently transitioning from data analysis towards more devy projects.
+- 💞️ My goal is to learn softwear engineering through hands on projects, feel free to hit me up if you like what I'm doing
 - 📫 How to reach me on LinkedIn at Mathilde Pestourie
 
 <!---
